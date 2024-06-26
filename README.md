@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar1728&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar1728" /> </p>
 
-- 🔭 I’m currently working on **NFT MarketPlace**
 
-- 🌱 I’m currently learning **Web3**
 
-- 👯 I’m looking to collaborate on **NFT MarketPlace**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with **Blockchain**
 
 - 📫 How to reach me **sachinkumaryadav@srmap.edu.in**
 
